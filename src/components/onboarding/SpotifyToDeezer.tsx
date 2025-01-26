@@ -108,7 +108,7 @@ export const SpotifyToDeezer: React.FC<SpotifyToDeezerProps> = ({ onClose, onPla
     <div className="min-h-screen bg-gradient-to-b from-gray-900 via-blue-900 to-black px-4 py-8">
       <div className="w-full max-w-4xl mx-auto bg-gray-900/50 backdrop-blur-xl rounded-2xl shadow-2xl p-8 border border-gray-800">
         <div className="text-3xl font-bold text-center mb-8 text-white bg-clip-text">
-          Spotify to Octave Conversion
+          Spotify to SamJ Music Conversion
         </div>
 
         {!convertedPlaylist ? (
@@ -186,7 +186,7 @@ export const SpotifyToDeezer: React.FC<SpotifyToDeezerProps> = ({ onClose, onPla
               className="w-full flex items-center justify-center space-x-2 bg-gradient-to-r from-green-500 to-blue-500 hover:from-green-600 hover:to-blue-600 text-white py-3 rounded-lg transition-all duration-300 transform hover:scale-[1.02]"
             >
               <Music2 className="w-5 h-5" />
-              <span>Import to Octave</span>
+              <span>Import to SamJ Music</span>
             </button>
           </div>
         )}

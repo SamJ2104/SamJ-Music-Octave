@@ -25,7 +25,7 @@ function OnboardingStep1({ onComplete, onSkip }: { onComplete: () => void; onSki
         </div>
         
         <h1 className="text-3xl md:text-5xl font-extrabold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-green-400">
-          Welcome to Octave
+          Welcome to SamJ Music
         </h1>
         
         <p className="text-base md:text-lg text-gray-300 mb-6 leading-relaxed">

@@ -33,10 +33,10 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://beta.octave.gold"),
+  metadataBase: new URL("https://music.samj.app"),
   title: {
-    default: "Octave Streaming",
-    template: "%s | Octave Streaming",
+    default: "SamJ Music Streaming",
+    template: "%s | SamJ Music Streaming",
   },
   description:
     "Stream for Free Forever - Your Ultimate Music Streaming Experience",
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     "music streaming",
     "free music",
     "spotify alternative",
-    "octave streaming",
+    "SamJ Music streaming",
     "music player",
     "web music",
     "online music",
@@ -71,9 +71,9 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://beta.octave.gold",
-    siteName: "Octave Streaming",
-    title: "Octave Streaming - Free Music Forever",
+    url: "https://music.samj.app",
+    siteName: "SamJ Music Streaming",
+    title: "SamJ Music Streaming - Free Music Forever",
     description:
       "Stream your favorite music for free, forever. High-quality streaming, no ads, unlimited music.",
     images: [
@@ -81,7 +81,7 @@ export const metadata: Metadata = {
         url: "/images/OctaveBanner.png",
         width: 1200,
         height: 630,
-        alt: "Octave Streaming Banner",
+        alt: "SamJ Music Streaming Banner",
         type: "image/png",
       },
     ],
@@ -89,11 +89,11 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Octave Streaming",
+    title: "SamJ Music Streaming",
     description: "Your Ultimate Free Music Streaming Platform",
     images: ["/images/OctaveBanner.png"],
-    creator: "@DebateMyRoomba",
-    site: "@OctaveStreaming",
+    creator: "@SamJ2104",
+    site: "@SamJ2104",
   },
 
   icons: {
@@ -123,10 +123,10 @@ export const metadata: Metadata = {
 
   manifest: "/manifest.json",
 
-  applicationName: "Octave Streaming",
+  applicationName: "SamJ Music Streaming",
   appleWebApp: {
     capable: true,
-    title: "Octave Streaming",
+    title: "SamJ Music Streaming",
     statusBarStyle: "black-translucent",
     startupImage: [
       {
@@ -163,7 +163,7 @@ export const metadata: Metadata = {
   other: {
     "mobile-web-app-capable": "yes",
     "apple-mobile-web-app-capable": "yes",
-    "application-name": "Octave",
+    "application-name": "SamJ Music",
     "msapplication-TileColor": "#000000",
     "msapplication-config": "/browserconfig.xml",
     "theme-color": "#000000",

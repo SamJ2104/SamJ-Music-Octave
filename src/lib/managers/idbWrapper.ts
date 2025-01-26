@@ -2,7 +2,7 @@
 import { Track, Playlist } from "../types/types";
 
 const API_BASE_URL = "https://api.octave.gold";
-const DB_NAME = "OctaveDB";
+const DB_NAME = "SamJ MusicDB";
 const DB_VERSION = 6;
 
 interface RecentlyPlayedEntry {

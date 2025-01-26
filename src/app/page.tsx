@@ -3,19 +3,19 @@ import { SpotifyClone } from "../components/index";
 import { StrictMode } from "react";
 
 export const metadata: Metadata = {
-  title: "Octave Streaming",
+  title: "SamJ Music Streaming",
   description: "Made by Custom and Abdullah",
   openGraph: {
     type: "website",
-    title: "Octave Streaming",
+    title: "SamJ Music Streaming",
     description: "Made by Custom and Abdullah",
-    siteName: "Octave Streaming",
+    siteName: "SamJ Music Streaming",
     images: [
       {
         url: "/images/OctaveBanner.png",
         width: 1200,
         height: 630,
-        alt: "Octave Streaming Banner",
+        alt: "SamJ Music Streaming Banner",
       },
     ],
   },
